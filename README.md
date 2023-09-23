@@ -1,2 +1,4 @@
 # clondegoogle
-<h2>Este es un diseño inspirado en Google</h2>
+<h3>Este es un diseño para una pagina web inspirada en Google</h3>
+<h3>Hecho con tecnologias como HTML5 y CSS.</h3>
+<h4>Diseñado por Carolina Nava.</h4>
